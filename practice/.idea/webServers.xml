@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="bc876cb1-be61-47f9-b22a-c43243fb25dc" name="SFTP" url="http://192.168.196.136">
-        <fileTransfer host="192.168.196.136" port="22" rootFolder="/home/python/practice" accessType="SFTP" password="df9bdf98df99df9edf9fdf9cdfcbdfea" username="python">
+      <webServer id="bc876cb1-be61-47f9-b22a-c43243fb25dc" name="SFTP" url="http://192.168.100.171">
+        <fileTransfer host="192.168.100.171" port="22" rootFolder="/home/python/practice" accessType="SFTP" password="dffedfc3dfcfdfc4dfcedfcbdfdedf9bdf93df93df98" username="python">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
